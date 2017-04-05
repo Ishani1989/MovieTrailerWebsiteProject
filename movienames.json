@@ -1,0 +1,38 @@
+[
+    {
+    "movie_title": "Toy Story",
+    "movie_storyline": "A story about a boy and his toys which come to life",
+    "poster_image": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-m8zzyx_5670999f.jpeg?region=0%2C0%2C300%2C450",
+    "movie_url": "https://www.youtube.com/watch?v=KYz2wyBy3kc"
+    },
+    {
+    "movie_title": "Hulk",
+    "movie_storyline": "Bruce Banner, a genetics researcher with a tragic past, suffers an accident that causes him to transform into a raging green monster when he gets angry.",
+    "poster_image": "http://cloudfront.posters2prints.com/width/430/bestfit/progressive/quality/75/9344-2.jpg",
+    "movie_url": "https://www.youtube.com/watch?v=2ErnLuJKQA4"
+    },
+    {
+    "movie_title": "Despicable Me",
+    "movie_storyline": "Story about a supervillain who adopts three girls from an orphanage.",
+    "poster_image": "https://images-na.ssl-images-amazon.com/images/I/51p%2BZw474tL.jpg",
+    "movie_url": "https://www.youtube.com/watch?v=zzCZ1W_CUoI"
+    },
+    {
+    "movie_title": "The Dark Knight Rises",
+    "movie_storyline": "The Dark Knight Rises is a 2012 superhero film directed by Christopher Nolan",
+    "poster_image": "http://t1.gstatic.com/images?q=tbn:ANd9GcQSGF8_VbDqKF0B_4IQ0NF87VMDSy7_MPKryawR-qLnSIPQwo5z",
+    "movie_url": "https://www.youtube.com/watch?v=GokKUqLcvD8"
+    },
+    {
+    "movie_title": "Ratatouille",
+    "movie_storyline": "Story about a young garbage boy who befriends Remy, the chef rat",
+    "poster_image": "https://upload.wikimedia.org/wikipedia/en/5/50/RatatouillePoster.jpg",
+    "movie_url": "https://www.youtube.com/watch?v=c3sBBRxDAqk"
+    },
+    {
+    "movie_title": "The pursuit of Happyness",
+    "movie_storyline": "A real life story based on entrepreneur Chris Gardner's nearly one-year struggle being homeless.",
+    "poster_image": "https://upload.wikimedia.org/wikipedia/en/8/81/Poster-pursuithappyness.jpg",
+    "movie_url": "https://www.youtube.com/watch?v=89Kq8SDyvfg"
+    }
+]
