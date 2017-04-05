@@ -11,7 +11,7 @@ main_page_head = '''
     <!-- Bootstrap 3 -->
     <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap-theme.min.css">
-    <link rel="stylesheet" href="D:/Ishani_study/Udacity/NanoDegree/PythonFiles/Project_Movie_Trailer_Website/movie_stylesheet.css">
+    <link rel="stylesheet" href="movie_stylesheet.css">
     
     <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
     <script src="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/js/bootstrap.min.js"></script>
@@ -113,19 +113,19 @@ main_page_content = '''
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="D:/Ishani_study/Udacity/NanoDegree/PythonFiles/Project_Movie_Trailer_Website/images/img1.jpg" align="middle"> # NOQA 54
+      <img src="images/img1.jpg" align="middle">
     </div>
 
     <div class="item">
-      <img src="D:/Ishani_study/Udacity/NanoDegree/PythonFiles/Project_Movie_Trailer_Website/images/img2.jpg" alt="Chania" align="middle"> # NOQA 54
+      <img src="images/img2.jpg" alt="Chania" align="middle">
     </div>
 
     <div class="item">
-      <img src="D:/Ishani_study/Udacity/NanoDegree/PythonFiles/Project_Movie_Trailer_Website/images/img3.jpg" alt="Flower" align="middle"> # NOQA 54
+      <img src="images/img3.jpg" alt="Flower" align="middle">
     </div>
 
     <div class="item">
-      <img src="D:/Ishani_study/Udacity/NanoDegree/PythonFiles/Project_Movie_Trailer_Website/images/img6.jpg" alt="Flower" align="middle"> # NOQA 54
+      <img src="images/img6.jpg" alt="Flower" align="middle">
     </div>
   </div>
 

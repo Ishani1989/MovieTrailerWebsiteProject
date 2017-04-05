@@ -2,11 +2,9 @@ import json
 import display_movie_website
 import media
 from media import Movie
+import os
 
-
-# Store the file containing source JSON data
-file_directory = "D:\Ishani_study\Udacity\NanoDegree\PythonFiles\Project_Movie_Trailer_Website\movienames.json"  # NOQA 564
-
+file_directory = os.getcwd() + "/movienames.json"
 
 # load the JSON data into module
 with open(file_directory) as data_file:

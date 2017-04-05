@@ -33,7 +33,7 @@ body {
 {   
     padding-top: 0px;
     padding-bottom:0px;
-    background-image:url("D:/Ishani_study/Udacity/NanoDegree/PythonFiles/Project_Movie_Trailer_Website/images/my-favourite-movies-of-all-time1.jpg");
+    background-image:url("images/my-favourite-movies-of-all-time1.jpg");
  
     background: contain;
     width: 100%; /* make sure to define width to fill container */
